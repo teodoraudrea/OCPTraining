@@ -1,8 +1,8 @@
 package Chapter1;
 
-import java.util.*;
+//import java.util.*;
 public class Learning {
-    private ArrayList list;
+    // private ArrayList list;
     public static void main(String[] args) {
         System.out.println("This works!");
     }
